@@ -9,15 +9,6 @@ The project is structured as follows:
 
 |-- TestSuites
 |-- reports
-|-- src
-|   |-- main
-|   |   |-- java
-|   |   |   |-- pagesobjects
-|               |-- BookingPage.java
-|               |-- ConfirmationPage.java
-|               |-- ...
-|   |       |-- resources
-|   |
 |   |-- test
 |       |-- java
 |           |-- Test
